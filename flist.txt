@@ -1,0 +1,267 @@
+#
+# Format:
+#
+# Filename | Spanish description | English Description
+#
+# Lines beginning with # are ignored!
+#
+00_Main_01	| Lucy y Alex		| Lucy and Alex
+01_Civil_01	| Lucy 	 		| Lucy
+01_Civil_02	| Lucy y Alex		| Lucy and Alex
+01_Civil_08	| Alejandro		| Alex
+01_Civil_03	| Delante de la Jueza	| In front of the Judge
+01_Civil_04	| Las preguntas...	| The questions!
+01_Civil_07	| Besitos...		| Sealed with a Kiss
+# 01_Civil_05	| Alejandro firmando	| Alex signing
+01_Civil_12	| Alejandro firmando	| Alex signing
+01_Civil_06	| Lucy firmando		| Lucy signing
+01_Civil_10	| Nancy firmando	| Nancy signing
+01_Civil_11	| T&iacute;a Gloria firmando	| Aunt Gloria signing
+01_Civil_09	| Pareja Fel&iacute;z	| Happy Couple
+01_Civil_14	| Brindando   		| Cheers!
+01_Civil_15	| M&aacute;s Brindis	| Toasting
+01_Civil_16	| Sonrisas   		| Smiles
+01_Civil_13	| Los Li-Leon y Liu-Li	| Li-Leon and Liu-Li
+# 01_Civil_17	| Con los Hermanos de Lucy	| With Lucy's Siblings
+01_Civil_24	| Con los Hermanos de Lucy	| With Lucy's Siblings
+01_Civil_18	| Con Alberto y Sonia	| With Alberto and Sonia
+01_Civil_19	| Con Don Kiko		| With Chiang Kay Kong
+# 01_Civil_20	| Qu&eacute; Miras?	| What are you looking?
+01_Civil_21	| Con la familia de Lucy| With Lucy's family
+# 01_Civil_22	| Con la familia de Lucy| With Lucy's family
+01_Civil_23	| Con las t&iacute;as de Lucy | With Lucy's Aunts
+01_Civil_25	| Lucy y sus Padres	| Lucy and her Parents
+01_Civil_26	| Alex y Pap&aacute	| Alex and Father
+# 01_Civil_27	| Con la Familia Liu	| With the Liu Family
+01_Civil_28	| Con la Familia Liu	| With the Liu Family
+01_Civil_30	| Los Liu		| The Liu's
+01_Civil_31	| Los Hermanos Liu	| The Liu's Brothers
+01_Civil_32	| Los Hermanos Li	| The Li's Brothers
+01_Civil_29	| La Municipalidad	| The Town Hall
+01_Civil_36	| La Municipalidad	| The Town Hall
+01_Civil_33	| Pueblo Libre 		| Freetown
+01_Civil_34	| Iglesia Rosada	| Pink Church
+01_Civil_35	| Plaza de Pueblo Libre	| Freetown's Square
+02_HomePrep_01	|01|01
+02_HomePrep_06	|02|02
+02_HomePrep_03	|03|03
+02_HomePrep_05	|04|04
+02_HomePrep_07	|05|05
+02_HomePrep_08	|06|06
+02_HomePrep_09	|07|07
+02_HomePrep_10	|08|08
+02_HomePrep_11	|09|09
+02_HomePrep_12	|10|10
+02_HomePrep_13	|11|11
+02_HomePrep_14	|12|12
+# 02_HomePrep_15	|13|13
+02_HomePrep_16	|14|14
+02_HomePrep_17	|15|15
+02_HomePrep_19	|16|16
+02_HomePrep_20	|17|17
+02_HomePrep_21	|18|18
+# 02_HomePrep_02	|02	|02	
+# 02_HomePrep_04	|04	|04	
+# 02_HomePrep_18	|18	|18	
+# 02_HomePrep_22	|22	|22	
+# 02_HomePrep_23	|23	|23	
+02_HomePrep_24	|24	|24	
+02_HomePrep_25	|25	|25	
+02_HomePrep_26	|26	|26	
+03_HomeFotos_02	|Con Pap&aacute;	| With Dad
+03_HomeFotos_03	|Con Pap&aacute;	| With Dad
+03_HomeFotos_08	|Con Mam&aacute;	| With Mom
+03_HomeFotos_01	|Con Mam&aacute;	| With Mom
+03_HomeFotos_07	|Con Mam&aacute; y Pap&aacute; | With Mom and Dad
+03_HomeFotos_06	|Con Mam&aacute; y Pap&aacute; | With Mom and Dad
+03_HomeFotos_13	|Con Katty		| With Katty
+03_HomeFotos_09	|Con Nancy		| With Nancy
+03_HomeFotos_14	|Con Carolyn		| With Carolyn
+03_HomeFotos_12	|Las hermanas Li	| All sisters
+03_HomeFotos_10	|Con Juan P&iacute;	| With Juan Pi
+03_HomeFotos_11	|Con todos los hermanos | With all the siblings
+03_HomeFotos_05	|Toda la familia	| With the whole family
+03_HomeFotos_15	|Con Pap&aacute; en el carro | With Dad in the car
+04_Religioso_02	|Alex y Madrina Entrando	|Entrance: Alex and Godmother
+04_Religioso_01	|Alex y Madrina Entrando	|Entrance: Alex and Godmother
+04_Religioso_05	|El Novio nervioso esperando	|The Groom's suspenseful wait
+04_Religioso_12	|Chancho asado!	   		|Cha siu
+04_Religioso_07	|Saliendo del carro		|Getting out of the car
+04_Religioso_06	|Lucy y Pap&aacute; llegan	|Lucy and Dad arrive
+04_Religioso_09	|Damas de Honor			|Bride's maids
+04_Religioso_04	|Comitiva de la Novia entrando	|Entrance: Bridal Party
+04_Religioso_03	|Todos dentro de la capilla	|Everybody in the chapel!
+04_Religioso_11	|All&iacute; llega Lucy		|Here comes the Bride!
+04_Religioso_10	|Alex saludando al suegro	|Alex greeting the father in law
+04_Religioso_08	|Uff: Al fin lleg&oacute;	|Lucy & Alex together
+# 04_Religioso_13	|Las lecturas			|Reading the Bible
+04_Religioso_14	|Todos escuchan las lecturas	|People listening the Bible reading
+04_Religioso_15	|Las lecturas			|Reading the Bible
+04_Religioso_16	|Lucy Fel&iacute;z		|Blushing bride!
+04_Religioso_19	|Qu&eacute; buen chiste!	|He is so funny!
+04_Religioso_20	|Parejita   	 		|Couple
+04_Religioso_36	|Ahora se van a casar		|The main event!
+04_Religioso_37	|El matrimonio...		|What is marriage?
+04_Religioso_18	|Est&aacute;n seguros? <strong>S&iacute;</strong>|Do you take this woman? <strong>Yup</strong>
+04_Religioso_17	|Yo Alejandro, me entrego a t&iacute;|Reciting the vows
+04_Religioso_24	|Yo Lucy, me entrego a t&iacute;|Reciting the vows
+04_Religioso_23	|Y Los Anillos?			|Ahh the Rings!
+04_Religioso_22	|Alejandro, Recibe esta Alianza |Alex, with this ring I thee wed
+04_Religioso_21	|Saludando al Cura		|Thanking the priest
+04_Religioso_31	|Petici&oacute;n de Nancy		|Nancy Prays
+04_Religioso_25	|Petici&oacute;n de Carolyn    	|Carolyn Prays
+04_Religioso_26	|Petici&oacute;n de Ana Mary		|Ana Mary Prays
+04_Religioso_27	|Petici&oacute;n de Rony		|Rony Prays
+04_Religioso_28	|Reci&eacute;n casaditos	|Just married!
+04_Religioso_30	|Empieza la Ceremonia de la Luz |Start of the Ritual of the Light
+04_Religioso_29	|Encendiendo el Cirio		|Lighting the Candle
+04_Religioso_34	|Uuy, que oscuro!		|Uh, it is dark in here...
+04_Religioso_33	|Ojala no se apague la vela	|I hope the candle doesn't go off
+04_Religioso_32	|Prendiendo el Cirio		|Lighting the Candle
+04_Religioso_38	|Uff, no se apag&oacute; la vela!|Phew, we made it!
+04_Religioso_35	|Padre rezando			|Priest is praying
+04_Religioso_40	|Tomando el vino		|Drinking the wine
+04_Religioso_39	|Hmm, que rico vinito		|Hmm... Great wine!
+04_Religioso_42	|Comulgando			|Communion
+04_Religioso_41	|Comulgando			|Communion
+04_Religioso_45	|Oraci&oacute;n de los esposos	|Husband and Wife praying
+04_Religioso_46	|Holas!!!       		|Somebody's behind us!
+04_Religioso_43	|Alex firmando el Acta		|Alex signing
+04_Religioso_44	|Lucy firmando el Acta		|Lucy signing
+04_Religioso_49	|Pap&aacute; de Lucy firma	|Lucy's Dad signing
+04_Religioso_50	|Madrina firmando    		|Godmother signing
+04_Religioso_48	|Katty firmando			|Katty signing
+04_Religioso_53	|Alberto firmando		|Alberto signs
+04_Religioso_54	|Sonia firmando			|Sonia signs
+04_Religioso_47	|Juan Pablo firmando		|Juan Pablo signing
+04_Religioso_52	|Gracias Padre Lucho		|Thank you, Father
+04_Religioso_51	|Alex Serio, Lucy Fel&iacute;z	|Serious Alex, Smiling Lucy
+04_Religioso_65	|Lucy y Alex recien casados	|Lucy and Alex just married
+04_Religioso_55	|Mar&iacute;a,Vicky,Alex,Lucy,Pablo,Alberto|Maria,Vicky,Alex,Lucy,Pablo,Alberto
+04_Religioso_66	|Que Linda Esposa		|Beautiful Wife
+04_Religioso_56	|Con los Papas de Lucy		|With Lucy's Parents
+04_Religioso_57	|Con Madrina y Pap&aacute; de Lucy|With Godmother and Lucy's Dad
+04_Religioso_58	|Los flamantes esposos	        |The Newlyweds
+04_Religioso_61	|Los Esposos con los Hermanos Li|The Happy Couple and the Li's Brothers
+04_Religioso_62	|Los Esposos con los Hermanos Li|The Happy Couple and the Li's Brothers
+04_Religioso_59	|Que Linda Esposa		|Beautiful Wife
+04_Religioso_60	|Lucy, recien casada		|Lucy, just married
+# 04_Religioso_64	|Ya nos vamos!			|Bye bye!
+04_Religioso_63	|Ya nos vamos!			|Bye bye!
+05_Entrada_07	|El Restaurant "Royal"		|The Restaurant "Royal"
+05_Entrada_01	|Mesas				|Tables
+05_Entrada_08	|La mesa de honor		|The <strong>head</strong> table
+05_Entrada_02	|Debajo del velo		|Under the veil
+05_Entrada_03	|En el carro			|In the car
+05_Entrada_06	|Saliendo del carro		|Getting out of the car
+05_Entrada_04	|Recien llegado			|Just arrived
+05_Entrada_05	|En las escaleras		|The entrance
+05_Entrada_09	|Besitos			|Kiss Kiss
+05_Entrada_10	|Bienvenidos			|Welcome
+05_Entrada_11	|Ratita y Oinkcito		|Ratty and Piggy
+05_Entrada_12	|Con el Le&oacute;n		|With the Guard Lion
+05_Entrada_16	|Vamos a la fiesta!		|Going to the party
+05_Entrada_15	|Lluvia de arroz y petalos	|Rice and Flower rain
+05_Entrada_14	|Subiendo las escaleras		|Getting up the stairs
+05_Entrada_13	|Recibiendo a la pareja		|Here is the couple arriving
+06_Danubio_03	|Baile Nupcial		|Wedding Dance
+06_Danubio_04	|Baile Nupcial		|Wedding Dance
+06_Danubio_02	|Lucy y su Pap&aacute;	|Lucy and her Dad
+06_Danubio_01	|Con Madrina		|With the Godmother
+06_Danubio_06	|Alex y la Mam&aacute; de Lucy|Alex and Lucy's Mom
+06_Danubio_09	|Con Kafay     		|With Kafay
+06_Danubio_05	|Con Juan Pablo		|With Juan Pablo
+06_Danubio_07	|Pap&aacute; y Mam&aacute; de Lucy|Lucy's Dad and Mom
+# 06_Danubio_08	|Pap&aacute; y Mam&aacute; de Lucy|Lucy's Dad and Mom
+# 06_Danubio_13	|Con Katty		|With Katty
+06_Danubio_14	|Con Katty		|With Katty
+06_Danubio_11	|Con Nancy		|With Nancy
+# 06_Danubio_12	|Con Nancy		|With Nancy
+06_Danubio_10	|Con Carolyn		|With Carolyn
+06_Danubio_15	|Con los t&iacute;os de Lucy	|With Lucy's Uncle and Antie
+
+07_Fiesta_24	|Lucy y Alex		|Lucy and Alex
+# 07_Fiesta_21	|Los Mariachis		|The Mariachis
+07_Fiesta_22	|Los Mariachis		|The Mariachis
+
+07_Fiesta_26	|Con Brendita		|With Brendita
+07_Fiesta_01	|Lucy y Alex Bailando	|Lucy Dancing and Alex pretending to...
+07_Fiesta_04	|Rondita     		|Round and Round
+07_Fiesta_27	|Ya me marie&eacute;	|I am getting dizzy!
+07_Fiesta_03	|Bailando pa'abajo	|Going down! down! down!
+07_Fiesta_02	|Carolyn bailando con Brenda|Carolyn dancing with Brenda
+07_Fiesta_25	|Lucy Bailando y Alex Desentonando|Lucy and Alex dancing
+07_Fiesta_28	|Alex tieso y Lucy bailando|Robo-Alex and Dancing Lucy
+
+07_Fiesta_23	|Torta de Matrimonio	|Wedding Cake
+07_Fiesta_15	|Cortando la torta	|Cutting the cake
+07_Fiesta_14	|Que rica torta		|Hmm... Yummy!
+07_Fiesta_13	|Y el postre!		|And now for dessert...
+
+07_Fiesta_12	|Katty recibe el Bouquet|Katty gets the Bouquet
+07_Fiesta_19	|Katty recibe el Bouquet|Katty gets the Bouquet
+07_Fiesta_16	|Katty-Roberto,Lucy-Alex|Katty-Roberto,Lucy-Alex
+# 07_Fiesta_17	|Katty-Roberto,Lucy-Alex|Katty-Roberto,Lucy-Alex
+# 07_Fiesta_18	|Katty-Roberto,Lucy-Alex|Katty-Roberto,Lucy-Alex
+
+07_Fiesta_05	|Katty recibe una Liga	|Katty gets a surprise!
+07_Fiesta_06	|Primas gana su premio|Prize winning cousins
+07_Fiesta_11	|Ana Mary recibe su liga|Everybody Wins!
+# 07_Fiesta_07	| 07 | 07
+07_Fiesta_10	|Marissa mostrando|Marissa showing
+07_Fiesta_09	|Servicio Completo|Full Service
+07_Fiesta_08	|Cecilia gana su premio|Cecilia wins a prize!
+
+07_Fiesta_20	|Lucy y Alex		|Lucy and Alex
+
+08_RedDress_03	|Lucy Tiesa		|Lucy
+08_RedDress_07	|Foto tradicional	|Traditional Photo
+# 08_RedDress_07bw|Foto tradicional	|Traditional Photo
+08_RedDress_01	|Sonrisas		|Smiles
+08_RedDress_02	|Esposos		|Happy Couple
+08_RedDress_04	|Tango?			|Tango?
+08_RedDress_05	|Cari&ntilde;ositos	|Love birds
+08_RedDress_06	|Separados?		|Get away?
+08_RedDress_08	|Linda parejita		|Cute couple
+
+# 09_Mesas_15	|Mesa de Honor		|Head Table
+09_Mesas_16	|Mesa de Honor		|Head Table
+09_Mesas_20	|Familia de Lucy|Lucy's Family
+09_Mesas_23	|Tios y Tias de Lucy	|Lucy's aunts and uncles
+09_Mesas_19	|Familia Leon|Leon's Family
+09_Mesas_10	|Los primos de Lucy	|Lucy's cousins
+09_Mesas_13	|Primos Li|Li's Cousins
+09_Mesas_03	|Vecinos de Pueblo Libre|Lucy's neighbours
+09_Mesas_04	|Familia Yi		|The Yi's
+09_Mesas_08	|Katty y amigos		|Katty and friends
+09_Mesas_24	|Carolyn y compa&ntilde;&iacute;a	|Carolyn's friends
+09_Mesas_01	|Amigos y Primos de Lucy|Lucy's friends and cousins
+09_Mesas_05	|Amigos de la Cat&oacute;lica|Lucy's friends from Uni
+09_Mesas_06	|Amigos de la Colonia China|Peruvian-Chinese friends
+09_Mesas_11	|Amigos de Lancaster y Andersen|Lancaster and Andersen's Friends
+09_Mesas_18	|Grupo de la Beneficencia China|Chinese Group
+09_Mesas_09	|Andersen y Amigos de Pap&aacute;|Andersen and Dad's friends
+09_Mesas_12	|Amigos del Pap&aacute; de Lucy|Friends of Lucy's dad
+09_Mesas_14	|Amigos de los Li|Li's friends
+
+09_Mesas_25	|Las Chiclayanas	|Alex's Mom's gang!
+09_Mesas_22	|Las Chiclayanas	|Alex's Mom's gang!
+09_Mesas_17	|Familia de Alex	|Alex's Family
+09_Mesas_21	|Los Lau y los Guin|The Lau's and the Guin's
+09_Mesas_02	|Primos de Alejandro	|Alex's cousins
+09_Mesas_07	|Amigos de Alejandro	|Alex's friends
+
+10_Grupos_07	|Con los Papas de Lucy | With Lucy's Parents
+10_Grupos_03	|Con Sonia y Alberto   | With Sonia and Alberto
+10_Grupos_04	|Con los hermanos de Lucy|With Lucy's siblings
+10_Grupos_05	|Con los hermanos de Lucy, Alberto y Sonia y Brendita|With Lucy's siblings, Alberto & Sonia and Brenda
+10_Grupos_01	|Las hermanas Li	|The Li's sisters
+10_Grupos_02	|Con T&iacute;a Gloria e Hijas|With Aunt Gloria and her daughthers
+10_Grupos_11	|Con los Hermanos de Lucy,T&iacute;a Gloria y sus Hijas|With Lucy's siblings, Auntie Gloria and her daughthers
+10_Grupos_06	|Pablo, Vicky, Alex, Lucy, Eloysa, Victor|Pablo, Vicky, Alex, Lucy, Eloysa, Victor
+10_Grupos_08	|Con la Mam&aacute; de Lucy y T&iacute;a Yola ? |With Lucy's Mom and Akoo Yola
+10_Grupos_09	|Con Ana Mary y Juan |With Ana Mary & Juan
+10_Grupos_10	|Con Patty y Walter|With Patty and Walter
+10_Grupos_12	|Con JuanP&iacute;, Nancy, Katty y sus respectivas parejas|With Juan Pablo, Nancy, Katty and their dates
+10_Grupos_13	|Con Carolyn y sus amigas|With Carolyn and her friends
+10_Grupos_14	|Katty,Brenda,Juan Pablo,Vicky,T&iacute;a Gloria y Chichi|Katty,Brenda,Juan Pablo,Vicky,T&iacute;a Gloria y Chichi
